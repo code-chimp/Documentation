@@ -7,12 +7,13 @@
 - ``` npm i -g typescript typings ``` - who doesn't loves them some TypeScript?
 - ``` npm i -g webpack@2.1.0-beta.20 ``` - allows you to run ```webpack``` from the command line
 
-## Visual Studio Extensions (Tools > Extensions and Updates...)
+## Visual Studio Extensions (Tools &raquo; Extensions and Updates...)
 
 - [EditorConfig](http://editorconfig.org/) - automatically sets IDE coding styles like tabs and indentation levels
 - [Web Essentials](http://vswebessentials.com/) - extends Visual Studio with many new features geared towards web development
 - [Markdown Editor](https://github.com/madskristensen/MarkdownEditor) - create/edit Markdown files with live preview
-- [NPM Task Runner](https://github.com/madskristensen/NpmTaskRunner) - you guessed it, it finds and runs the NPM tasks defined in your project
+- [NPM Task Runner](https://github.com/madskristensen/NpmTaskRunner) - adds support for NPM tasks in Visual Studio's Task Runner Explorer
+- [WebPack Task Runner](https://visualstudiogallery.msdn.microsoft.com/5497fd10-b1ba-474c-8991-1438ae47012a) - adds support for WebPack in Visual Studio's Task Runner Explorer
 - Visual Studio Iconizer for Visual Studio 2015 - Converts the text titles of Visual Studio menus to icons - saves a lot of screen space
 
 ## [VS Code](http://code.visualstudio.com/) (just search the Extensions tab)
