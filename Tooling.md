@@ -33,7 +33,7 @@ I love Visual Studio for C# coding, but JavaScript not so much.
 
 ## [Sublime Text 3](https://www.sublimetext.com/3)
 
-First install the [Package Control](https://packagecontrol.io/) addon. This is my preferred "other than Visual Studio" editor, but you have to get
+First install the [Package Control](https://packagecontrol.io/) addon. This is my preferred "other than Visual Studio" editor, but you have to
 purchase a license. It says "in beta" on the site, but I have been reliably using this for years now.
 
 - AdvancedNewFile - to start a new file just hit ```ctl+alt+n``` then start typing the path of the file you want to create relative to the root of the project. **ninja magic**
