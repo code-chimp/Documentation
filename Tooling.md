@@ -41,7 +41,7 @@ purchase a license. It says "in beta" on the site, but I have been reliably usin
 - Babel - adds recognition and highlighting for ES6 and React
 - ChangeQuotes - change surrounding quotes to single (') or double ("") automatically - smart enough to escape any conflicting quotes in the middle of the string
 - Color Highlighter - recognizes hex and rgb color codes and underlines in that color
-- EditorConfig -
+- EditorConfig - automatically sets editor coding styles like tabs and indentation levels
 - Emmet - [Emmet](http://emmet.io/) is amazing for quickly writing lots of boilerplate HTML, if you don't know it you should [read up on it](https://www.smashingmagazine.com/2013/03/goodbye-zen-coding-hello-emmet/)
 - HTML-CSS-JS Prettify - auto-format code pasted in from elsewhere
 - JavaScriptNext - ES6 Syntax - ES6 language definition for Sublime
