@@ -286,3 +286,7 @@ Again: **never nest ID selectors!**
 
 If you must use an ID selector in the first place (and you should really try not to), they should never be nested. If you find yourself doing this, you need to revisit your markup, or figure out why such strong specificity is needed. If you are writing well formed HTML and CSS, you should **never** need to do this.
 
+## Reference
+
+  - This document is based on the [Airbnb CSS/Sass Style Guide](https://github.com/airbnb/css).
+
