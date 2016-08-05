@@ -502,4 +502,4 @@
   - This document is based on the [Airbnb React Style Guide](https://github.com/airbnb/javascript/tree/master/react).
   - All JavaScript is generally written in ES6/7 syntax adhering to the [JavaScript Standard Style](http://standardjs.com)
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**

@@ -75,7 +75,7 @@
     // => 9, 9
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## References
 
@@ -128,7 +128,7 @@
     // => ReferenceError
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Objects
 
@@ -322,7 +322,7 @@
     console.log(has.call(object, key))
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Arrays
 
@@ -423,7 +423,7 @@
     })
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Destructuring
 
@@ -492,7 +492,7 @@
     const { left, top } = processInput(input)
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Strings
 
@@ -573,7 +573,7 @@
     const foo = `'this' is "quoted"`
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Functions
 
@@ -797,7 +797,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Arrow Functions
 
@@ -919,7 +919,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Classes & Constructors
 
@@ -1089,7 +1089,7 @@
     ```
 
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Modules
 
@@ -1208,7 +1208,7 @@
     foo.init()
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Iterators and Generators
 
@@ -1289,7 +1289,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Properties
 
@@ -1325,7 +1325,7 @@
     const isJedi = getProp('jedi')
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Variables
 
@@ -1428,7 +1428,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Hoisting
 
@@ -1527,7 +1527,7 @@
 
   - For more information refer to [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting/) by [Ben Cherry](http://www.adequatelygood.com/).
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Comparison Operators & Equality
 
@@ -1672,7 +1672,7 @@
     const baz = !c
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Blocks
 
@@ -1723,7 +1723,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Comments
 
@@ -1830,7 +1830,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Whitespace
 
@@ -2152,7 +2152,7 @@
       .fail(() => console.log('You have failed this city.'))
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Commas
 
@@ -2218,7 +2218,7 @@
     ];
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Semicolons
 
@@ -2241,7 +2241,7 @@
 
     [Read more](http://stackoverflow.com/questions/7365172/semicolon-before-self-invoking-function/7365214%237365214).
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 
 ## Type Casting & Coercion
@@ -2328,7 +2328,7 @@
     const hasAge = !!age
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Naming Conventions
 
@@ -2487,7 +2487,7 @@
     export default StyleGuide
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Accessors
 
@@ -2556,7 +2556,7 @@
     }
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Events
 
@@ -2587,7 +2587,7 @@
     })
     ```
 
-  **[⬆ back to top](#table-of-contents)**
+  **[back to top](#table-of-contents)**
 
 ## jQuery
 
@@ -2656,14 +2656,14 @@
     $sidebar.find('ul').hide()
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## ECMAScript 5 Compatibility
 
   <a name="es5-compat--kangax"></a><a name="26.1"></a>
   - [26.1](#es5-compat--kangax) Refer to [Kangax](https://twitter.com/kangax/)'s ES5 [compatibility table](http://kangax.github.io/es5-compat-table/).
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## ECMAScript 6 Styles
 
@@ -2684,7 +2684,7 @@
 1. [Iterators and Generators](#iterators-and-generators)
 1. [Modules](#modules)
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Testing
 
@@ -2706,7 +2706,7 @@
    - 100% test coverage is a good goal to strive for, even if it's not always practical to reach it.
    - Whenever you fix a bug, _write a regression test_. A bug fixed without a regression test is almost certainly going to break again in the future.
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Performance
 
@@ -2720,7 +2720,7 @@
   - [Are Javascript functions like `map()`, `reduce()`, and `filter()` optimized for traversing arrays?](https://www.quora.com/JavaScript-programming-language-Are-Javascript-functions-like-map-reduce-and-filter-already-optimized-for-traversing-array/answer/Quildreen-Motta)
   - Loading...
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## Resources
 
@@ -2800,7 +2800,7 @@
   - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
 
 ## License
 
@@ -2832,4 +2832,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   - This document is based on the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
   - All JavaScript is generally written in ES6/7 syntax adhering to the [JavaScript Standard Style](http://standardjs.com)
 
-**[⬆ back to top](#table-of-contents)**
+**[back to top](#table-of-contents)**
