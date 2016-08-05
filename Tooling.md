@@ -56,7 +56,7 @@ purchase a license. It says "in beta" on the site, but I have been reliably usin
 - SideBarEnhancements - adds a lot of functionality you expect to the Sublime sidebar that wasn't there (add new file, move, etc.)
 - StandardFormat - reformats your code to [JavaScript Standard Style](http://standardjs.com/)
 - SublimeLinter - the Sublime linting engine
-- SublimeLinter-contrib-standard - [JavaScript Standard Style](http://standardjs.com/) definitins for SublimeLinter
+- SublimeLinter-contrib-standard - [JavaScript Standard Style](http://standardjs.com/) definitions for SublimeLinter
 - TypeScript - because TypeScript
 
 ## [WebStorm](https://www.jetbrains.com/webstorm/)
