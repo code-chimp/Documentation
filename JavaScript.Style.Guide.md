@@ -1840,17 +1840,17 @@
     ```javascript
     // bad
     function foo () {
-    ∙∙∙∙const name
+    ····const name
     }
 
     // bad
     function bar () {
-    ∙const name
+    ·const name
     }
 
     // good
     function baz () {
-    ∙∙const name
+    ··const name
     }
     ```
 
@@ -1931,15 +1931,17 @@
     // bad
     (function (global) {
       // ...stuff...
-    })(this)↵
-    ↵
+    })(this)
+
+
     ```
 
     ```javascript
     // good
     (function (global) {
       // ...stuff...
-    })(this)↵
+    })(this)
+
     ```
 
   <a name="whitespace--chains"></a><a name="18.6"></a>
