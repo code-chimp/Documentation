@@ -68,15 +68,15 @@
 ## Naming
 
   - **Extensions**: Use `.js` extension for React components.
-  - **Filename**: Use SnakeCase for filenames. E.g., `reservation_card.js`.
+  - **Filename**: Use PascalCase for filenames. E.g., `ReservationCard.js`.
   - **Reference Naming**: Use PascalCase for React components and camelCase for their instances. eslint: [`react/jsx-pascal-case`](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-pascal-case.md)
 
     ```jsx
     // bad
-    import reservationCard from './reservation_card'
+    import reservationCard from './ReservationCard'
 
     // good
-    import ReservationCard from './reservation_card'
+    import ReservationCard from './ReservationCard'
 
     // bad
     const ReservationItem = <ReservationCard />
@@ -85,17 +85,17 @@
     const reservationItem = <ReservationCard />
     ```
 
-  - **Component Naming**: Use the filename as the component name. For example, `reservation_card.js` should have a reference name of `ReservationCard`. However, for root components of a directory, use `index.js` as the filename and use the directory name as the component name:
+  - **Component Naming**: Use the filename as the component name. For example, `ReservationCard.js` should have a reference name of `ReservationCard`. However, for root components of a directory, use `index.js` as the filename and use the directory name as the component name:
 
     ```jsx
     // bad
-    import Footer from './footer/footer'
+    import Footer from './Footer/Footer'
 
     // bad
-    import Footer from './footer/index'
+    import Footer from './Footer/index'
 
     // good
-    import Footer from './footer'
+    import Footer from './Footer'
     ```
 
 ## Declaration
